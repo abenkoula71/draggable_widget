@@ -14,7 +14,6 @@ A flutter package which will help you to create a draggable widget that can be d
 - Automatically resizes itself when the widget changes
 - Highly customizable
 - Supports Flutter web as well
-
 ## Properties 🔖
 
 ```Dart
