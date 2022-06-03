@@ -27,7 +27,6 @@ A flutter package which will help you to create a draggable widget that can be d
   final double verticalSpace;
   /// Intial location of the widget, default to [AnchoringPosition.bottomRight]
   final AnchoringPosition initialPosition;
-
   /// Intially should the widget be visible or not, default to [true]
   final bool intialVisibility;
 
